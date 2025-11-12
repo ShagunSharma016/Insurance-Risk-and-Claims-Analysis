@@ -46,7 +46,9 @@ The main aim was to turn raw policy and claims data into **actionable insights**
   - **Total Policies:** 37,542  
   - **Total Claim Amount:** **$187.8M**  
   - **Average Claim Amount:** **$5,003**  
-  - **Claim Frequency:** **51.03%**  
+  - **Claim Frequency:** **51.03%**
+    
+### **For Current Parameter: Total Policies**
 
 - **Customer Demographics:**  
   - Gender distribution was balanced — **18,736 male** vs **18,806 female** policyholders.  
